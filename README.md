@@ -61,6 +61,10 @@ Pie/Bar charts for job categories
 
 Scatter plot for salary based on job types
 
+## Deployment
+
+Streamlit web app for real-time predictions
+
 ### 📬 Contact
 
 Praisy
