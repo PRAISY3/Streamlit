@@ -61,7 +61,8 @@ Pie/Bar charts for job categories
 
 Scatter plot for salary based on job types
 
-📬 Contact
+### 📬 Contact
+
 Praisy
 GitHub: @PRAISY3
 Email: praisyprasanna3@gmail.com
