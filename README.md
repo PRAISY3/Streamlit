@@ -1,7 +1,7 @@
-📊 Data Science Salary Analysis
+### 📊 Data Science Salary Analysis
 Analyze global trends in data science job roles, salaries, and categories using Python and visualization libraries.
 
-📌 Project Overview
+### 📌 Project Overview
 This project explores a dataset of data science job salaries collected over multiple years. It provides insights into:
 
 Salary distributions by job title
@@ -12,7 +12,7 @@ Trends in job categories
 
 Salary prediction models
 
-🧰 Tools & Technologies
+### 🧰 Tools & Technologies
 Python
 
 Pandas – data manipulation
