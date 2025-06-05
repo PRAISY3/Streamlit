@@ -38,8 +38,27 @@ salary: Original salary
 
 salary_in_usd: Salary converted to USD
 
+
+### 📊 Key Insights
+Average salary trends by job title and year
+
+Most in-demand data science roles
+
+Distribution of salaries across job categories
+
 employment_type: Full-time, part-time, etc.
 
 company_location, employee_residence
+
+### 📈 Visualizations
+Visualized using Python libraries:
+
+Bar plots for job title averages
+
+Histograms for salary distribution
+
+Pie/Bar charts for job categories
+
+
 
 
