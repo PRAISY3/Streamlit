@@ -24,3 +24,22 @@ Jupyter Notebook – analysis
 Streamlit – interactive web app 
 
 Scikit-learn – modeling (Linear regression, Random Forest, XG Boost)
+
+### 📂 Dataset
+The dataset used is , containing fields such as:
+
+work_year: Year of data collection
+
+job_title: Position title
+
+job_category: Role category (e.g., Data Analyst, Scientist, etc.)
+
+salary: Original salary
+
+salary_in_usd: Salary converted to USD
+
+employment_type: Full-time, part-time, etc.
+
+company_location, employee_residence
+
+
