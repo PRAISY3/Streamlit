@@ -26,7 +26,7 @@ Streamlit – interactive web app
 Scikit-learn – modeling (Linear regression, Random Forest, XG Boost)
 
 ### 📂 Dataset
-The dataset used is , containing fields such as:
+The dataset used is jobs_in_data.csv, containing fields such as:
 
 work_year: Year of data collection
 
